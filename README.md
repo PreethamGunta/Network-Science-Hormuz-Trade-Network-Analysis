@@ -66,7 +66,7 @@ See [`Final_Report/report.pdf`](Final_Report/report.pdf) §5 (Results) and
 
 ```bash
 git clone https://github.com/PreethamGunta/Network-Science-Hormuz-Trade-Network-Analysis.git
-cd Network-Science-Propane-Trade-Network-Analysis
+cd Network-Science-Hormuz-Trade-Network-Analysis
 ```
 
 ### 2. Set up the Python environment
